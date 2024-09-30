@@ -3,7 +3,7 @@
 # GitHub SSH Keys Setup Script
 
 # Variables
-EMAIL="youremail@email.com"  # Change this to your email
+EMAIL="hudaifa15@outlook.com"  # Change this to your email
 
 # Step 1: Generate SSH Key
 echo "Generating SSH key..."
