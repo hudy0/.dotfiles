@@ -3,7 +3,9 @@
 
 # CLI tools
 brew "git"
-brew "python@3.12"
+# brew "python@3.12"
+brew "virtualenvwrapper"
+brew "pipx"
 
 # Applications
 cask "docker"

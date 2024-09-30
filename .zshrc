@@ -19,3 +19,6 @@ export EDITOR=vim
 # Aliases
 alias gs='git status'
 alias ll='ls -la'
+export PATH="/Library/Frameworks/Python.framework/Versions/3.12/bin:$PATH"
+export PATH="/Library/Frameworks/Python.framework/Versions/3.12/bin:$PATH"
+export PATH="/Library/Frameworks/Python.framework/Versions/3.12/bin:$PATH"
