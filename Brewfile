@@ -13,6 +13,7 @@ cask "postman"
 cask "iterm2"
 cask "pycharm"
 cask "firefox"
+cask "brave-browser"
 cask "visual-studio-code"
 
 
