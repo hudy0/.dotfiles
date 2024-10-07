@@ -1,11 +1,11 @@
 {
-    "workbench.colorTheme": "Bearded Theme Monokai Reversed",
+    "workbench.colorTheme": "Min Tomorrow Dark",
     "editor.fontSize": 16,
     "editor.lineHeight": 1.5,
     "editor.rulers": [
         120
     ],
-    "editor.renderLineHighlight": "gutter",
+    // "editor.renderLineHighlight": "gutter",
     "cSpell.language": "en",
     "editor.suggestSelection": "first",
     "editor.inlineSuggest.suppressSuggestions": true,
@@ -43,10 +43,10 @@
     "editor.tabSize": 4,
     "workbench.iconTheme": "symbols",
     "editor.minimap.enabled": false,
-    "apc.font.family": "JetBrains Mono",
-    "workbench.settings.applyToAllProfiles": [
-        "editor.fontFamily"
-    ],
+    // "apc.font.family": "JetBrains Mono",
+    // "workbench.settings.applyToAllProfiles": [
+    //     "editor.fontFamily"
+    // ],
     "cSpell.userWords": [
         "Monokai"
     ],
